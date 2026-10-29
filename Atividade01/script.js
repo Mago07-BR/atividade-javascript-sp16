@@ -1,0 +1,43 @@
+let nome = "André";
+let cidade = "Franco da Rocha";
+let estado = "São Paulo";
+let curso = "Desenvolvimento Web";
+let linguagem = "JavaScript";
+let cor = "Azul";
+let comida = "Pizza";
+let animal = "Cachorro";
+let escola = "Minha Escola";
+let mensagem = "Olá, mundo!";
+
+console.log(nome);
+console.log(cidade);
+console.log(estado);
+console.log(curso);
+console.log(linguagem);
+console.log(cor);
+console.log(comida);
+console.log(animal);
+console.log(escola);
+console.log(mensagem);
+
+let idade = 20;
+let altura = 1.75;
+let peso = 70;
+let ano = 2026;
+let numero1 = 10;
+let numero2 = 25;
+let nota = 8.5;
+let preco = 49.90;
+let quantidade = 5;
+let temperatura = 30;
+
+console.log(idade);
+console.log(altura);
+console.log(peso);
+console.log(ano);
+console.log(numero1);
+console.log(numero2);
+console.log(nota);
+console.log(preco);
+console.log(quantidade);
+console.log(temperatura);
